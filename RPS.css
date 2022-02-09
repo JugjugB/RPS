@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+.buttons {
+    margin: 10px;
+}
+
+.results {
+    margin: 15px;
+}
+
+.results a {
+    border-style: solid;
+    padding: 5px;
+}
+
+.scorecard {
+    margin: 10px;
+    font-size: 30px;
+}
+.scorecard div {
+    border-style: solid;
+    display: inline-block;
+    padding: 5px;
+}
+
+.winner {
+    padding: 5px;
+    border-style: solid;
+    display: inline-block;
+}
